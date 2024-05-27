@@ -11,13 +11,15 @@ import { Provider } from 'react-redux';
 import Conference from './Conference/Conference.jsx';
 import OtherCommittie from './Conference/OtherCommittee.jsx';
 import DownloadLinks from './Conference/DownloadLinks.jsx';
+import ATest from './ATest/ATest';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Provider store={store}>
     <Router>
-      <Navigator />
+      {/* <Navigator /> */}
+      <ATest />
 
     </Router>
     </Provider>
