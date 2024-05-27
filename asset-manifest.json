@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Frontend/static/css/main.9e4c9732.css",
+    "main.js": "/Frontend/static/js/main.04e01846.js",
+    "static/js/453.4962693a.chunk.js": "/Frontend/static/js/453.4962693a.chunk.js",
+    "static/media/library_1.png": "/Frontend/static/media/library_1.7b1e25af5f2c2b9636fc.png",
+    "static/media/Teacher_4.png": "/Frontend/static/media/Teacher_4.a2af46d2b367b509a7d1.png",
+    "static/media/library_2.png": "/Frontend/static/media/library_2.678ba200950af23ec838.png",
+    "static/media/library_3.png": "/Frontend/static/media/library_3.ab8221c60bd7ca1b98c2.png",
+    "static/media/Teacher_3.png": "/Frontend/static/media/Teacher_3.a18707f5bf2e7f315e4f.png",
+    "static/media/library_5.png": "/Frontend/static/media/library_5.c6eb211ea92dc48b56dc.png",
+    "static/media/library_4.png": "/Frontend/static/media/library_4.e9fff30b4fae3e7e6265.png",
+    "static/media/Teacher_5.png": "/Frontend/static/media/Teacher_5.0fdcd468c94c655b05df.png",
+    "static/media/Teacher_1.png": "/Frontend/static/media/Teacher_1.c7fac6c6cc307eb731c4.png",
+    "static/media/Teacher_2.png": "/Frontend/static/media/Teacher_2.47ae9b8341a90d6b7b7b.png",
+    "static/media/researchLab.png": "/Frontend/static/media/researchLab.be881fb7c279a359cd3b.png",
+    "static/media/deg.png": "/Frontend/static/media/deg.e647569aac372f56d366.png",
+    "static/media/syllabus.png": "/Frontend/static/media/syllabus.5ce472f704e843232b0a.png",
+    "static/media/OldschoolGrotesk-NormalRegular.otf": "/Frontend/static/media/OldschoolGrotesk-NormalRegular.35425eea2bafb3639287.otf",
+    "static/media/High_Performance_Computing.png": "/Frontend/static/media/High_Performance_Computing.5b7fd5457aa1f3c3d235.png",
+    "static/media/Knowledge_Engineering.png": "/Frontend/static/media/Knowledge_Engineering.c04d0212ff62fa735a4a.png",
+    "static/media/UIT-Logo-big.png": "/Frontend/static/media/UIT-Logo-big.c71e3f6b12626da70ad7.png",
+    "index.html": "/Frontend/index.html",
+    "static/media/plus.svg": "/Frontend/static/media/plus.887d2aad484110b1f963a4231aa8b89d.svg",
+    "static/media/minus.svg": "/Frontend/static/media/minus.595a628f1d89b51f5ee67012ae076ac8.svg",
+    "main.9e4c9732.css.map": "/Frontend/static/css/main.9e4c9732.css.map",
+    "main.04e01846.js.map": "/Frontend/static/js/main.04e01846.js.map",
+    "453.4962693a.chunk.js.map": "/Frontend/static/js/453.4962693a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4c9732.css",
+    "static/js/main.04e01846.js"
+  ]
+}
